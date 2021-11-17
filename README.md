@@ -3,13 +3,13 @@
 
 En esta práctica se publica en un repositorio con un formulario y una tabla, las cuales pueden realizar las consultas básicas del lenguaje **SQL**:
 
-**C**REATE - Crear un nuevo registro
+**CREATE** - Crear un nuevo registro
 
-**R**EAD - Consultar datos de la base de datos
+**READ** - Consultar datos de la base de datos
 
-**U**PDATE - Cambiar/Actualizar campos de un registro
+**UPDATE** - Cambiar/Actualizar campos de un registro
 
-**D**ELETE - Eliminar datos de la base de datos
+**DELETE** - Eliminar datos de la base de datos
 
 
 **Contiene:**
