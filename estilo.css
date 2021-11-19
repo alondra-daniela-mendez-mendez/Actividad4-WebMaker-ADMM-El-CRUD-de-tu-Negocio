@@ -79,6 +79,9 @@ input[type='submit']:hover{
 	background-color: #2F5597;
 	cursor: pointer;
 }
+label{
+	font-size: 30px;
+}
 
 .ok {
 	text-align: center;
